@@ -6,7 +6,7 @@ Features
 	•	User Registration and Login
 	•	Register with a unique username, password, and initial deposit
 	•	Secure login authentication
-	•	System-generated account number
+	•	Account number
 	•	Banking Operations
 	•	Deposit and withdraw funds
 	•	Transfer money between accounts
@@ -19,3 +19,10 @@ Tech Stack
 	•	Frontend: HTML, CSS
 	•	Backend: Java (Servlets), JDBC
 	•	Database: MySQL
+
+How to Run the Project
+        •       Clone the Repo - git clone https://github.com/yourusername/Online-Banking-System.git
+	•       Open the folder in Eclipse IDE in a new Workspace if you want to edit
+ 	•	Configure JDBC by adding your own username and password 
+  	•	Create a Database in MySQL WorkBench and create tables for accounts and transactions
+   	•	Run the index.html file on the local server
