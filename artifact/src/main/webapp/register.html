@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Register Page</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id='nav'>
+		<img src="savio.png" id="photo">
+		<nav class="nav">
+			<ul>
+				<li><a href="/artifact/index.html"> HOME</a></li>
+				<li><a href="/artifact/login.html">LOGIN</a></li>
+				<li><a href="/artifact/register.html">REGISTER</a></li>
+				<li><a href="/artifact/contact.html">CONTACT US</a></li>
+			</ul>
+		</nav>
+	</div>
+	
+	<div class="login-container">
+		<p> Welcome User! Register to continue...</p>
+		<h2>Create Account!!</h2>
+		<form action="RegCont" method="POST">
+			<input type="number" name="acctno" placeholder="acctno" required>
+			<br>
+			<input type="text" name="name" placeholder="name" required>
+			<br>
+			<input type="text" name="email" placeholder="email" required>
+			<br>
+			<input type="password" name="pswd1" placeholder="password" required>
+			<br>
+			<input type="password" name="pswd2" placeholder="re-enter password" required>
+			<br>
+			<input type="deposit" name="deposit" placeholder="initial deposit" required>
+			<br>
+			<button type="submit">Register</button>
+		</form>
+	</div>
+</body>
+</html>
