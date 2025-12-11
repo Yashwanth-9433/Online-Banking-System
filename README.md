@@ -21,7 +21,7 @@ TECH STACK
 	•	Database: MySQL
 
 HOW TO RUN THE PROJECT
-        ---       Clone the Repo - git clone https://github.com/yourusername/Online-Banking-System.git
+        ---       Clone the Repo - git clone https://github.com/Yashwanth-9433/Online-Banking-System.git
 	•       Open the folder in Eclipse IDE in a new Workspace if you want to edit
  	•	Configure JDBC by adding your own username and password 
   	•	Create a Database in MySQL WorkBench and create tables for accounts and transactions
