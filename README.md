@@ -1,4 +1,4 @@
-🏦 Online Banking System
+Online Banking System
 
 A secure and user-friendly online banking application built using Java, JDBC, MySQL, HTML, and CSS. The system provides core banking functionalities including account management, transactions, and user authentication.
 
